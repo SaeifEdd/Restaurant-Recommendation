@@ -1,0 +1,11 @@
+data/
+
+
+__pycache__/
+.idea/
+.ipynb_checkpoints/
+notebooks/check_data.ipynb
+venv/
+
+chromedriver
+
